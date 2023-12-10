@@ -1,0 +1,37 @@
+[
+  {
+    "type": "Classical",
+    "description": "The traditional, lovable circus clown with a big red nose and oversized shoes.",
+    "image": "path_to_classical_clown_image.png"
+  },
+  {
+    "type": "Jester",
+    "description": "The cunning and witty clown, always ready with a clever trick or a joke.",
+    "image": "path_to_jester_clown_image.png"
+  },
+  {
+    "type": "Mime",
+    "description": "The silent clown who speaks volumes through gestures and expressions.",
+    "image": "path_to_mime_clown_image.png"
+  },
+  {
+    "type": "Silly Billy",
+    "description": "The goofy, zany clown that brings a smile with their innocent comedy.",
+    "image": "path_to_silly_billy_clown_image.png"
+  },
+  {
+    "type": "Rodeo",
+    "description": "The rough and tumble clown who's at home in the wild west of the rodeo arena.",
+    "image": "path_to_rodeo_clown_image.png"
+  },
+  {
+    "type": "Pierrot",
+    "description": "sad boi",
+    "image": "path_to_auguste_clown_image.png"
+  },
+  {
+    "type": "Harlequin",
+    "description": "The agile and acrobatic clown, often involved in romantic misadventures.",
+    "image": "path_to_harlequin_clown_image.png"
+  }
+]

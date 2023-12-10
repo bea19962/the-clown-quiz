@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "What's your preferred method of communication?",
+    "answers": [
+      { "text": "Talking and laughing out loud", "value": "Classic Clown" },
+      { "text": "Through daring feats", "value": "Rodeo Clown" },
+      { "text": "Actions speak louder than words", "value": "Mime" }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What's your preferred aaaaa?",
+    "answers": [
+      { "text": "AAAAAA", "value": "Rodeo Clown" },
+      { "text": "aaaa", "value": "" },
+      { "text": "Ahhhhhh", "value": "Mime" }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What will you eat for breakfast?",
+    "answers": [
+      { "text": "idk", "value": "Classic Clown" },
+      { "text": "My Feelings", "value": "Pierrot" },
+      { "text": "Banana", "value": "Silly Billy" }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Choose a non-clown job.",
+    "answers": [
+      { "text": "Unemployed", "value": "Classic Clown" },
+      { "text": "Businessman", "value": "Pierrot" },
+      { "text": "Banana", "value": "Silly Billy" }
+    ]
+  }
+]
