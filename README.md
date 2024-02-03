@@ -3,6 +3,9 @@
 # MOCKUPS
 ![image](https://github.com/bea19962/the-clown-quiz/assets/49271965/3353567f-f190-432b-b51a-ac59b44ea642)
 
+# CHARACTERS
+
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
